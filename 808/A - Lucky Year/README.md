@@ -1,0 +1,17 @@
+<h2><a href="https://codeforces.com/contest/808/problem/A" target="_blank" rel="noopener noreferrer">808A — Lucky Year</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 900 |
+| **Language** | C++17 (GCC 7-32) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 808A](https://codeforces.com/contest/808/problem/A) |
+
+## Topics
+`implementation`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Lucky Year</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Apart from having lots of holidays throughout the year, residents of Berland also have whole <span class="tex-font-style-it">lucky</span> years. Year is considered <span class="tex-font-style-it">lucky</span> if it has no more than <span class="tex-font-style-tt">1</span> non-zero digit in its number. So years 100, 40000, 5 are <span class="tex-font-style-it">lucky</span> and 12, 3001 and 12345 are not.</p><p>You are given current year in Berland. Your task is to find how long will residents of Berland wait till the next <span class="tex-font-style-it">lucky</span> year.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line contains integer number <span class="tex-span"><i>n</i></span> (<span class="tex-span">1 ≤ <i>n</i> ≤ 10<sup class="upper-index">9</sup></span>) — current year in Berland.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Output amount of years from the current year to the next <span class="tex-font-style-it">lucky</span> one.</p></div><div class="sample-tests"><div class="section-title">Examples</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id006349370546840193" id="id00329391063025678" class="input-output-copier">Copy</div></div><pre id="id006349370546840193">4<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id008896188220985415" id="id0008517578855087571" class="input-output-copier">Copy</div></div><pre id="id008896188220985415">1<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id007674403056556598" id="id009982359671211046" class="input-output-copier">Copy</div></div><pre id="id007674403056556598">201<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0034276713021486604" id="id00564208834346217" class="input-output-copier">Copy</div></div><pre id="id0034276713021486604">99<br></pre></div><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id001307809419941176" id="id0033734031643807616" class="input-output-copier">Copy</div></div><pre id="id001307809419941176">4000<br></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id0026174818118998966" id="id002551511205980692" class="input-output-copier">Copy</div></div><pre id="id0026174818118998966">1000<br></pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first example next <span class="tex-font-style-it">lucky</span> year is 5. In the second one — 300. In the third — 5000.</p></div>
