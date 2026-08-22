@@ -6,29 +6,29 @@
 
 | Total Problems | Topics |
 |---|---|
-| 163 | 17 |
+| 176 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [*special](#special) (1)
-- [binary search](#binary-search) (4)
-- [brute force](#brute-force) (29)
-- [constructive algorithms](#constructive-algorithms) (9)
-- [data structures](#data-structures) (1)
+- [*special](#special) (2)
+- [binary search](#binary-search) (5)
+- [brute force](#brute-force) (31)
+- [constructive algorithms](#constructive-algorithms) (12)
+- [data structures](#data-structures) (2)
 - [dp](#dp) (4)
 - [expression parsing](#expression-parsing) (1)
-- [games](#games) (3)
+- [games](#games) (4)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (30)
-- [implementation](#implementation) (106)
-- [math](#math) (54)
-- [number theory](#number-theory) (11)
+- [greedy](#greedy) (33)
+- [implementation](#implementation) (108)
+- [math](#math) (61)
+- [number theory](#number-theory) (12)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (12)
-- [strings](#strings) (30)
+- [sortings](#sortings) (16)
+- [strings](#strings) (31)
 
 ---
 
@@ -37,12 +37,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
+| 637B | [Chat Order](https://codeforces.com/contest/637/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/637/B%20-%20Chat%20Order/solution.cpp) |
 
 ### binary search
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 371C | [Hamburgers](https://codeforces.com/contest/371/problem/C) | 1600 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/371/C%20-%20Hamburgers/solution.cpp) |
+| 637B | [Chat Order](https://codeforces.com/contest/637/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/637/B%20-%20Chat%20Order/solution.cpp) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.cpp) |
@@ -66,6 +68,7 @@
 | 919B | [Perfect Number](https://codeforces.com/contest/919/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/919/B%20-%20Perfect%20Number/solution.cpp) |
 | 1269A | [Equation](https://codeforces.com/contest/1269/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1269/A%20-%20Equation/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
+| 1535A | [Fair Playoff](https://codeforces.com/contest/1535/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1535/A%20-%20Fair%20Playoff/solution.cpp) |
 | 1617B | [GCD Problem](https://codeforces.com/contest/1617/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1617/B%20-%20GCD%20Problem/solution.cpp) |
 | 1703A | [YES or YES?](https://codeforces.com/contest/1703/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1703/A%20-%20YES%20or%20YES%3F/solution.cpp) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
@@ -79,6 +82,7 @@
 | 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.cpp) |
 | 2204A | [Passing the Ball](https://codeforces.com/contest/2204/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2204/A%20-%20Passing%20the%20Ball/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
+| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
 
 ### constructive algorithms
@@ -87,10 +91,13 @@
 |---|---------|------------|----------|
 | 148A | [Insomnia cure](https://codeforces.com/contest/148/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/148/A%20-%20Insomnia%20cure/solution.cpp) |
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
+| 637B | [Chat Order](https://codeforces.com/contest/637/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/637/B%20-%20Chat%20Order/solution.cpp) |
 | 1405B | [Array Cancellation](https://codeforces.com/contest/1405/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1405/B%20-%20Array%20Cancellation/solution.cpp) |
 | 1617B | [GCD Problem](https://codeforces.com/contest/1617/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1617/B%20-%20GCD%20Problem/solution.cpp) |
 | 1705B | [Mark the Dust Sweeper](https://codeforces.com/contest/1705/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1705/B%20-%20Mark%20the%20Dust%20Sweeper/solution.cpp) |
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
+| 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
+| 1890A | [Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1890/A%20-%20Doremy's%20Paint%203/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1999B | [Card Game](https://codeforces.com/contest/1999/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1999/B%20-%20Card%20Game/solution.cpp) |
 | 2218C | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2218/C%20-%20The%2067th%20Permutation%20Problem/solution.cpp) |
@@ -99,6 +106,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 637B | [Chat Order](https://codeforces.com/contest/637/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/637/B%20-%20Chat%20Order/solution.cpp) |
 | 1703B | [ICPC Balloons](https://codeforces.com/contest/1703/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1703/B%20-%20ICPC%20Balloons/solution.cpp) |
 
 ### dp
@@ -121,6 +129,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 
@@ -156,12 +165,15 @@
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1818A | [Politics](https://codeforces.com/contest/1818/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1818/A%20-%20Politics/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
+| 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1987A | [Upload More RAM](https://codeforces.com/contest/1987/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1987/A%20-%20Upload%20More%20RAM/solution.cpp) |
 | 2173A | [Sleeping Through Classes](https://codeforces.com/contest/2173/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2173/A%20-%20Sleeping%20Through%20Classes/solution.cpp) |
+| 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.cpp) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.cpp) |
 | 2218C | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2218/C%20-%20The%2067th%20Permutation%20Problem/solution.cpp) |
+| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 
@@ -237,6 +249,7 @@
 | 1406A | [Subset Mex](https://codeforces.com/contest/1406/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1406/A%20-%20Subset%20Mex/solution.cpp) |
 | 1426B | [Symmetric Matrix](https://codeforces.com/contest/1426/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1426/B%20-%20Symmetric%20Matrix/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
+| 1535A | [Fair Playoff](https://codeforces.com/contest/1535/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1535/A%20-%20Fair%20Playoff/solution.cpp) |
 | 1560A | [Dislike of Threes](https://codeforces.com/contest/1560/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1560/A%20-%20Dislike%20of%20Threes/solution.cpp) |
 | 1619A | [Square String?](https://codeforces.com/contest/1619/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1619/A%20-%20Square%20String%3F/solution.cpp) |
 | 1669A | [Division?](https://codeforces.com/contest/1669/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1669/A%20-%20Division%3F/solution.cpp) |
@@ -259,6 +272,7 @@
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.cpp) |
 | 1850C | [Word on the Paper](https://codeforces.com/contest/1850/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1850/C%20-%20Word%20on%20the%20Paper/solution.cpp) |
 | 1873A | [Short Sort](https://codeforces.com/contest/1873/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1873/A%20-%20Short%20Sort/solution.cpp) |
+| 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1926A | [Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1926/A%20-%20Vlad%20and%20the%20Best%20of%20Five/solution.cpp) |
 | 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.cpp) |
@@ -289,6 +303,7 @@
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 233A | [Perfect Permutation](https://codeforces.com/contest/233/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/233/A%20-%20Perfect%20Permutation/solution.cpp) |
+| 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/318/A%20-%20Even%20Odds/solution.cpp) |
 | 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
@@ -315,8 +330,12 @@
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.cpp) |
 | 1714A | [Everyone Loves to Sleep](https://codeforces.com/contest/1714/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1714/A%20-%20Everyone%20Loves%20to%20Sleep/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
+| 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
+| 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
+| 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1900B | [Laura and Operations](https://codeforces.com/contest/1900/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1900/B%20-%20Laura%20and%20Operations/solution.cpp) |
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1984B | [Large Addition](https://codeforces.com/contest/1984/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1984/B%20-%20Large%20Addition/solution.cpp) |
@@ -327,10 +346,12 @@
 | 2044A | [Easy Problem](https://codeforces.com/contest/2044/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2044/A%20-%20Easy%20Problem/solution.cpp) |
 | 2123A | [Blackboard Game](https://codeforces.com/contest/2123/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2123/A%20-%20Blackboard%20Game/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
 | 2218B | [The 67th 6-7 Integer Problem](https://codeforces.com/contest/2218/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2218/B%20-%20The%2067th%206-7%20Integer%20Problem/solution.cpp) |
 | 2218C | [The 67th Permutation Problem](https://codeforces.com/contest/2218/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2218/C%20-%20The%2067th%20Permutation%20Problem/solution.cpp) |
+| 2229A | [Slimes on a Line](https://codeforces.com/contest/2229/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2229/A%20-%20Slimes%20on%20a%20Line/solution.cpp) |
 | 2230A | [Optimal Purchase](https://codeforces.com/contest/2230/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2230/A%20-%20Optimal%20Purchase/solution.cpp) |
 | 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
@@ -349,6 +370,7 @@
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1549A | [Gregor and Cryptography](https://codeforces.com/contest/1549/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1549/A%20-%20Gregor%20and%20Cryptography/solution.cpp) |
 | 1617B | [GCD Problem](https://codeforces.com/contest/1617/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1617/B%20-%20GCD%20Problem/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1985B | [Maximum Multiple Sum](https://codeforces.com/contest/1985/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1985/B%20-%20Maximum%20Multiple%20Sum/solution.cpp) |
 
 ### probabilities
@@ -373,11 +395,15 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 456A | [Laptops](https://codeforces.com/contest/456/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/456/A%20-%20Laptops/solution.cpp) |
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.cpp) |
+| 637B | [Chat Order](https://codeforces.com/contest/637/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/637/B%20-%20Chat%20Order/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.cpp) |
 | 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.cpp) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1760/A%20-%20Medium%20Number/solution.cpp) |
+| 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.cpp) |
+| 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
+| 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 
 ### strings
@@ -413,6 +439,7 @@
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1985/A%20-%20Creating%20Words/solution.cpp) |
 | 2094A | [Trippi Troppi](https://codeforces.com/contest/2094/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2094/A%20-%20Trippi%20Troppi/solution.cpp) |
+| 2178A | [Yes or Yes](https://codeforces.com/contest/2178/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2178/A%20-%20Yes%20or%20Yes/solution.cpp) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 
 ---
