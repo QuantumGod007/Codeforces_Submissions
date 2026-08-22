@@ -1,0 +1,20 @@
+<h2><a href="https://codeforces.com/contest/1714/problem/A" target="_blank" rel="noopener noreferrer">1714A — Everyone Loves to Sleep</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 900 |
+| **Language** | C++17 (GCC 7-32) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 1714A](https://codeforces.com/contest/1714/problem/A) |
+
+## Topics
+`implementation` `math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Everyone Loves to Sleep</div><div class="time-limit"><div class="property-title">time limit per test</div>2 seconds</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>Vlad, like everyone else, loves to sleep very much.</p><p>Every day Vlad has to do $$$n$$$ things, each at a certain time. For each of these things, he has an alarm clock set, the $$$i$$$-th of them is triggered on $$$h_i$$$ hours $$$m_i$$$ minutes every day ($$$0 \le h_i  \lt  24, 0 \le m_i  \lt  60$$$). Vlad uses the $$$24$$$-hour time format, so after $$$h=12, m=59$$$ comes $$$h=13, m=0$$$ and after $$$h=23, m=59$$$ comes $$$h=0, m=0$$$.</p><p>This time Vlad went to bed at $$$H$$$ hours $$$M$$$ minutes ($$$0 \le H  \lt  24, 0 \le M  \lt  60$$$) and asks you to answer: how much he will be able to sleep until the next alarm clock.</p><p>If any alarm clock rings at the time when he went to bed, then he will sleep for a period of time of length $$$0$$$.</p></div><div class="input-specification"><div class="section-title">Input</div><p>The first line of input data contains an integer $$$t$$$ ($$$1 \le t \le 100$$$) — the number of test cases in the test.</p><p>The first line of the case contains three integers $$$n$$$, $$$H$$$ and $$$M$$$ ($$$1 \le n \le 10, 0 \le H  \lt  24, 0 \le M  \lt  60$$$) — the number of alarms and the time Vlad went to bed.</p><p>The following $$$n$$$ lines contain two numbers each $$$h_i$$$ and $$$m_i$$$ ($$$0 \le h_i  \lt  24, 0 \le m_i  \lt  60$$$) — the time of the $$$i$$$ alarm. It is acceptable that two or more alarms will trigger at the same time.</p><p>Numbers describing time do not contain leading zeros.</p></div><div class="output-specification"><div class="section-title">Output</div><p>Output $$$t$$$ lines, each containing the answer to the corresponding test case. As an answer, output two numbers  — the number of hours and minutes that Vlad will sleep, respectively. If any alarm clock rings at the time when he went to bed, the answer will be <span class="tex-font-style-tt">0 0</span>.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id00762258206298147" id="id005338969383503513" class="input-output-copier">Copy</div></div><pre id="id00762258206298147"><div class="test-example-line test-example-line-even test-example-line-0">3</div><div class="test-example-line test-example-line-odd test-example-line-1">1 6 13</div><div class="test-example-line test-example-line-odd test-example-line-1">8 0</div><div class="test-example-line test-example-line-even test-example-line-2">3 6 0</div><div class="test-example-line test-example-line-even test-example-line-2">12 30</div><div class="test-example-line test-example-line-even test-example-line-2">14 45</div><div class="test-example-line test-example-line-even test-example-line-2">6 0</div><div class="test-example-line test-example-line-odd test-example-line-3">2 23 35</div><div class="test-example-line test-example-line-odd test-example-line-3">20 15</div><div class="test-example-line test-example-line-odd test-example-line-3">10 30</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id005436688543222582" id="id0013826763320438162" class="input-output-copier">Copy</div></div><pre id="id005436688543222582">1 47
+0 0
+10 55
+</pre></div></div></div>
