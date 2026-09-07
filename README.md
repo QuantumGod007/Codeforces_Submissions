@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 202 | 18 |
+| 203 | 18 |
 
 ---
 
@@ -23,12 +23,12 @@
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (47)
-- [implementation](#implementation) (121)
+- [implementation](#implementation) (122)
 - [math](#math) (74)
 - [number theory](#number-theory) (13)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (21)
+- [sortings](#sortings) (22)
 - [strings](#strings) (31)
 
 ---
@@ -319,6 +319,7 @@
 | 1900A | [Cover in Water](https://codeforces.com/contest/1900/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1900/A%20-%20Cover%20in%20Water/solution.cpp) |
 | 1926A | [Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1926/A%20-%20Vlad%20and%20the%20Best%20of%20Five/solution.cpp) |
 | 1950A | [Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1950/A%20-%20Stair%2C%20Peak%2C%20or%20Neither%3F/solution.cpp) |
+| 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.cpp) |
 | 1971C | [Clock and Strings](https://codeforces.com/contest/1971/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1971/C%20-%20Clock%20and%20Strings/solution.cpp) |
 | 1984B | [Large Addition](https://codeforces.com/contest/1984/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1984/B%20-%20Large%20Addition/solution.cpp) |
 | 1985A | [Creating Words](https://codeforces.com/contest/1985/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1985/A%20-%20Creating%20Words/solution.cpp) |
@@ -465,6 +466,7 @@
 | 1850A | [To My Critics](https://codeforces.com/contest/1850/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1850/A%20-%20To%20My%20Critics/solution.cpp) |
 | 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
 | 1903A | [Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1903/A%20-%20Halloumi%20Boxes/solution.cpp) |
+| 1971A | [My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1971/A%20-%20My%20First%20Sorting%20Problem/solution.cpp) |
 | 2167A | [Square?](https://codeforces.com/contest/2167/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2167/A%20-%20Square%3F/solution.cpp) |
 | 2238A | [Another Puzzle from Papyrus](https://codeforces.com/contest/2238/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2238/A%20-%20Another%20Puzzle%20from%20Papyrus/solution.cpp) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
