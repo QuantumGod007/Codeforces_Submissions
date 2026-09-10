@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 207 | 18 |
+| 208 | 18 |
 
 ---
 
@@ -20,11 +20,11 @@
 - [dp](#dp) (5)
 - [expression parsing](#expression-parsing) (1)
 - [games](#games) (4)
-- [geometry](#geometry) (1)
+- [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (47)
-- [implementation](#implementation) (124)
-- [math](#math) (76)
+- [implementation](#implementation) (125)
+- [math](#math) (77)
 - [number theory](#number-theory) (13)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -150,6 +150,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 
 ### graph matchings
@@ -242,6 +243,7 @@
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.cpp) |
 | 266B | [Queue at the School](https://codeforces.com/contest/266/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/266/B%20-%20Queue%20at%20the%20School/solution.cpp) |
+| 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
@@ -352,6 +354,7 @@
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 233A | [Perfect Permutation](https://codeforces.com/contest/233/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/233/A%20-%20Perfect%20Permutation/solution.cpp) |
+| 270A | [Fancy Fence](https://codeforces.com/contest/270/problem/A) | 1100 | [C++23 (GCC 14-64, msys2)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/270/A%20-%20Fancy%20Fence/solution.cpp) |
 | 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/318/A%20-%20Even%20Odds/solution.cpp) |
 | 472A | [Design Tutorial: Learn from Math](https://codeforces.com/contest/472/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/472/A%20-%20Design%20Tutorial%3A%20Learn%20from%20Math/solution.cpp) |
 | 479A | [Expression](https://codeforces.com/contest/479/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/479/A%20-%20Expression/solution.cpp) |
