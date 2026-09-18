@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 215 | 18 |
+| 216 | 18 |
 
 ---
 
@@ -19,12 +19,12 @@
 - [data structures](#data-structures) (3)
 - [dp](#dp) (5)
 - [expression parsing](#expression-parsing) (1)
-- [games](#games) (4)
+- [games](#games) (5)
 - [geometry](#geometry) (2)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (48)
 - [implementation](#implementation) (131)
-- [math](#math) (81)
+- [math](#math) (82)
 - [number theory](#number-theory) (14)
 - [probabilities](#probabilities) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -143,6 +143,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 959A | [Mahmoud and Ehab and the even-odd game](https://codeforces.com/contest/959/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/959/A%20-%20Mahmoud%20and%20Ehab%20and%20the%20even-odd%20game/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 2218A | [The 67th Integer Problem](https://codeforces.com/contest/2218/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/2218/A%20-%20The%2067th%20Integer%20Problem/solution.cpp) |
@@ -374,6 +375,7 @@
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
+| 959A | [Mahmoud and Ehab and the even-odd game](https://codeforces.com/contest/959/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/959/A%20-%20Mahmoud%20and%20Ehab%20and%20the%20even-odd%20game/solution.cpp) |
 | 1033B | [Square Difference](https://codeforces.com/contest/1033/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1033/B%20-%20Square%20Difference/solution.cpp) |
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.cpp) |
 | 1269A | [Equation](https://codeforces.com/contest/1269/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/1269/A%20-%20Equation/solution.cpp) |
