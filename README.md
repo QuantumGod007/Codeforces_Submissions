@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 216 | 18 |
+| 217 | 18 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (3)
 - [binary search](#binary-search) (6)
-- [brute force](#brute-force) (39)
+- [brute force](#brute-force) (40)
 - [constructive algorithms](#constructive-algorithms) (14)
 - [data structures](#data-structures) (3)
 - [dp](#dp) (5)
@@ -61,6 +61,7 @@
 | 80A | [Panoramix's Prediction](https://codeforces.com/contest/80/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/80/A%20-%20Panoramix's%20Prediction/solution.cpp) |
 | 122A | [Lucky Division](https://codeforces.com/contest/122/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/122/A%20-%20Lucky%20Division/solution.cpp) |
 | 205A | [Little Elephant and Rozdil](https://codeforces.com/contest/205/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/205/A%20-%20Little%20Elephant%20and%20Rozdil/solution.cpp) |
+| 214A | [System of Equations](https://codeforces.com/contest/214/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/214/A%20-%20System%20of%20Equations/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 268A | [Games](https://codeforces.com/contest/268/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/QuantumGod007/Codeforces_Submissions/blob/HEAD/268/A%20-%20Games/solution.cpp) |
